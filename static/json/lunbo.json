@@ -1,0 +1,10 @@
+{
+  "images": [
+    {"src": "../static/index-image/1.png"},
+    {"src": "../static/index-image/2.png"},
+    {"src": "../static/index-image/3.png"},
+    {"src": "../static/index-image/4.png"},
+    {"src": "../static/index-image/5.png"},
+    {"src": "../static/index-image/6.png"}
+  ]
+}
